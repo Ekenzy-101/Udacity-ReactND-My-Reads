@@ -15,3 +15,7 @@ To get started , do the following:
 
 - Install all project dependencies with `npm install`
 - Start the development server with `npm start`
+
+## DEMO
+
+![Demo video](Demo.gif)
